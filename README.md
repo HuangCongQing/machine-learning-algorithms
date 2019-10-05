@@ -8,6 +8,10 @@
 
 ### References
 
+##### [MLEveryday / 100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+100-Days-Of-ML-Code中文版
+
+
 ##### [lawlite19](https://github.com/lawlite19)/**[MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python)**
 
 
