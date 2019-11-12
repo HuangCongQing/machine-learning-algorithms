@@ -4,7 +4,7 @@
 
 * [轻松看懂机器学习十大常用算法](https://www.jianshu.com/p/8eaa924ad39e)
 
-
+学习机器学习，[《西瓜书》](https://datawhalechina.github.io/pumpkin-book/#/)讲得最系统，对于里面的推导过程有些不详细，，已经有一些热心的小伙伴开源了《南瓜书》，大家可以多看看
 
 ### References
 
