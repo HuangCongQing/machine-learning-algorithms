@@ -33,7 +33,7 @@
 <a name="AZCiY"></a>
 #### [黄海广博士的知乎高赞（1000+）文章分享](https://mp.weixin.qq.com/s/fp_EFvOJBsFo4lQRZ8q2BA)
 
-
+#### [重磅发布！吴恩达 AI 完整课程资源超级大汇总！](https://zhuanlan.zhihu.com/p/108241279)
 
 
 
